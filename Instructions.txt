@@ -1,0 +1,19 @@
+Open the project eclipse
+Go to newtest.java
+right click
+select Run as
+click onTestNg 
+
+Test Steps:
+
+> Open Url
+> select India from drop down
+> select Learn more in screen
+> mouse over on personal bank
+> click on digi bank
+> click on login link
+> swith to another window
+> enter user name
+> enter password
+> click on login
+> verify validation message
