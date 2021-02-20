@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45286" started-at="2021-02-20T16:51:07 IST" finished-at="2021-02-20T16:51:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45286" started-at="2021-02-20T16:51:07 IST" finished-at="2021-02-20T16:51:52 IST">
+      <class name="optimumproject.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:optimumproject.NewTest@76707e36]" name="beforeTest" is-config="true" duration-ms="11704" started-at="2021-02-20T16:51:07 IST" finished-at="2021-02-20T16:51:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="menu()[pri:1, instance:optimumproject.NewTest@76707e36]" name="menu" duration-ms="14458" started-at="2021-02-20T16:51:18 IST" finished-at="2021-02-20T16:51:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menu -->
+        <test-method status="PASS" signature="clickLearnMore()[pri:2, instance:optimumproject.NewTest@76707e36]" name="clickLearnMore" duration-ms="5580" started-at="2021-02-20T16:51:33 IST" finished-at="2021-02-20T16:51:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLearnMore -->
+        <test-method status="PASS" signature="digi()[pri:3, instance:optimumproject.NewTest@76707e36]" name="digi" duration-ms="8797" started-at="2021-02-20T16:51:38 IST" finished-at="2021-02-20T16:51:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- digi -->
+        <test-method status="PASS" signature="loginPage()[pri:4, instance:optimumproject.NewTest@76707e36]" name="loginPage" duration-ms="4517" started-at="2021-02-20T16:51:47 IST" finished-at="2021-02-20T16:51:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="verify()[pri:5, instance:optimumproject.NewTest@76707e36]" name="verify" duration-ms="87" started-at="2021-02-20T16:51:52 IST" finished-at="2021-02-20T16:51:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method status="PASS" signature="close()[pri:0, instance:optimumproject.NewTest@76707e36]" name="close" is-config="true" duration-ms="42" started-at="2021-02-20T16:51:52 IST" finished-at="2021-02-20T16:51:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- optimumproject.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
